@@ -1,0 +1,32 @@
+[
+  {
+    "amount": "5000.00",
+    "paymentDate": "2024-03-15",
+    "remarks": "March Salary Payment",
+    "vendorCode": "EMP001",
+    "vendorName": "John Smith",
+    "vendorAcctNumber": "0123456789",
+    "vendorBankCode": "058152052",
+    "paymentType": "45"
+  },
+  {
+    "amount": "7500.00",
+    "paymentDate": "2024-03-15",
+    "remarks": "Contract Payment - Web Development",
+    "vendorCode": "CONT002",
+    "vendorName": "Sarah Johnson",
+    "vendorAcctNumber": "9876543210",
+    "vendorBankCode": "011151003",
+    "paymentType": "B16"
+  },
+  {
+    "amount": "3000.00",
+    "paymentDate": "2024-03-15",
+    "remarks": "Business Travel Reimbursement",
+    "vendorCode": "EMP003",
+    "vendorName": "Michael Brown",
+    "vendorAcctNumber": "5432109876",
+    "vendorBankCode": "044150291",
+    "paymentType": "76"
+  }
+]
